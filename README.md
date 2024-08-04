@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Sandeep R N from Bengaluru, Karnataka.<br><br>- 🔭 I’m working as Cloud Engineer.<br>- 📚 I'm currently learning DevOps.<br>- ⚡ In my free time I play Games and Contribute to Open-Source community on GitHub</p>
+<p align="left">I'm Sandeep R N from Bengaluru, Karnataka.<br><br>- 🔭 I’m working as Cloud Engineer.<br>- 📚 DevOps Enthusiast.<br>- ⚡ In my free time I play Games and Contribute to Open-Source community on GitHub</p>
 
 ###
 
