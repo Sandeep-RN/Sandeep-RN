@@ -4,9 +4,9 @@
 
 ### SRE → Platform Engineer &nbsp;·&nbsp; Automation-first &nbsp;·&nbsp; Observability-driven &nbsp;·&nbsp; Multi-cloud
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sandeeprn.in-00ff88?style=flat-square&logo=astro&logoColor=white)](https://sandeeprn.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sandeep--rn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-rn/)
-[![Blog](https://img.shields.io/badge/Blog-sandeeprn.in%2Fblog-00ff88?style=flat-square&logo=hashnode&logoColor=white)](https://sandeeprn.in/blog)
+[![Portfolio](https://img.shields.io/badge/-sandeeprn.in-0d1117?style=flat-square&logo=astro&logoColor=00ff88)](https://sandeeprn.in)
+[![LinkedIn](https://img.shields.io/badge/-sandeep--rn-0d1117?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/sandeep-rn/)
+[![Blog](https://img.shields.io/badge/-sandeeprn.in%2Fblog-0d1117?style=flat-square&logo=hashnode&logoColor=00ff88)](https://sandeeprn.in/blog)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Sandeep-RN.Sandeep-RN" />
 
@@ -14,7 +14,7 @@
 
 ---
 
-## `$ whoami`
+## 👤 whoami
 
 Senior Cloud Engineer at SymphonyAI building the automation and tooling that keeps production reliable at scale — not just the monitoring, but the pipelines that eliminate the manual work around it.
 
@@ -25,7 +25,7 @@ Senior Cloud Engineer at SymphonyAI building the automation and tooling that kee
 
 ---
 
-## `$ ls ./stack`
+## 🛠 stack
 
 **Cloud & IaC**
 
@@ -50,7 +50,7 @@ Senior Cloud Engineer at SymphonyAI building the automation and tooling that kee
 
 ---
 
-## `$ cat ./projects`
+## 🚀 projects
 
 | Project | Impact |
 |---------|--------|
@@ -62,7 +62,7 @@ Senior Cloud Engineer at SymphonyAI building the automation and tooling that kee
 
 ---
 
-## `$ cat ./certifications`
+## 🏅 certifications
 
 | | Certification |
 |--|--------------|
@@ -74,7 +74,7 @@ Senior Cloud Engineer at SymphonyAI building the automation and tooling that kee
 
 ---
 
-## `$ ./stats.sh`
+## 📊 stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sandeep-RN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="220" alt="GitHub stats" />
