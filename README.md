@@ -23,6 +23,8 @@ Senior Cloud Engineer at SymphonyAI building the automation and tooling that kee
 - Eliminated **15+ hrs/week** of manual work by automating daily alert digests, weekly and monthly utilisation reports across 1,000+ servers via the Zabbix API
 - Led a **Zabbix 4 → 7 migration** with zero monitoring gaps across 15,000+ URL checks and four internal cloud teams
 
+> Most production work lives in company Azure DevOps — what's here is portfolio and personal projects.
+
 ---
 
 ## 🛠 stack
@@ -43,7 +45,6 @@ Senior Cloud Engineer at SymphonyAI building the automation and tooling that kee
 
 **Observability & Automation**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -77,6 +78,6 @@ Senior Cloud Engineer at SymphonyAI building the automation and tooling that kee
 ## 📊 stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep-RN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="220" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=Sandeep-RN&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep-RN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandeep-RN&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="200" alt="Top languages" />
 </div>
