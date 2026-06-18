@@ -75,9 +75,13 @@ Senior Cloud Engineer at SymphonyAI building the automation and tooling that kee
 
 ---
 
-## 📊 stats
+## 📂 work
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep-RN&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandeep-RN&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="200" alt="Top languages" />
-</div>
+Production work — Zabbix automation, OCI cost scripts, Azure DevOps pipelines — lives in company infrastructure, not here.
+
+What's documented with real numbers, architecture diagrams, and code snippets:
+
+| | |
+|--|--|
+| 🌐 | **[sandeeprn.in/projects](https://sandeeprn.in/projects)** — full project write-ups with impact |
+| ✍️ | **[sandeeprn.in/blog](https://sandeeprn.in/blog)** — technical posts including how this portfolio was built |
